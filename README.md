@@ -1,4 +1,4 @@
-# JavaScript Arrays
+slicepop# JavaScript Arrays
 
 ## Objectives
 
